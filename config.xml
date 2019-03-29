@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>  
 
-<widget xmlns = "http://www.w3.org/ns/widgets"
+<widget xmlns = "https://www.w3.org/ns/widgets"
 xmlns:gap = "http://phonegap.com/ns/1.0"
 id = "com.phonegap.app2"
 version ="1.0.0">
@@ -33,7 +33,7 @@ Datos del autor Joselin del Carmen Zuñiga Esquivel
 <allow-intent href="https://*/*"/>
 <acces origin="https://*/*"/>
 <allow-intent href="http://*/*"/>
-<acces origin="http://*/*"/>
+<acces origin="https://*/*"/>
 <plugin name="cordova-plugin-whithelist" source="npm"/>
 
 <!--Colocar icono app-->
