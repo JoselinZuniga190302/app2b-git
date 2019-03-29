@@ -30,10 +30,10 @@ Datos del autor Joselin del Carmen Zuñiga Esquivel
 <plugin name="cordova-plugin-dialogs" spec="~1.3.1"/>
 
 <!--Para accesar a paginas en internet-->
-<allow-intent href="http://*/*"/>
+<allow-intent href="https://*/*"/>
 <acces origin="https://*/*"/>
 <allow-intent href="http://*/*"/>
-<acces origin="http://*/*"/>
+<acces origin="https://*/*"/>
 <plugin name="cordova-plugin-whithelist" source="npm"/>
 
 <!--Colocar icono app-->
