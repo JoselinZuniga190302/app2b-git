@@ -33,7 +33,7 @@ Datos del autor Joselin del Carmen Zuñiga Esquivel
 <allow-intent href="https://*/*"/>
 <acces origin="https://*/*"/>
 <allow-intent href="http://*/*"/>
-<acces origin="https://*/*"/>
+<acces origin="http://*/*"/>
 <plugin name="cordova-plugin-whithelist" source="npm"/>
 
 <!--Colocar icono app-->
